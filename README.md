@@ -12,7 +12,6 @@ Genel amaçlı bir programlama dili olan **Python**, bilimsel hesaplamalar için
 * Python Çalışma Ortamının Tanıtılması
 * Linux, Mac, Window üzerinde Python
 * Jupyter Notebook ve Jupyter Lab Tanıtımı
-* 
 
 ### Temel Python
 
@@ -22,5 +21,31 @@ Genel amaçlı bir programlama dili olan **Python**, bilimsel hesaplamalar için
 * Sayı Veri Tipleri
 * Mantıksal Veriler (booleans)
 * Karakter Dizileri (string)
-* Listeler
-* Dilimleme
+* Listeler (lists)
+* Dilimleme (slicing)
+* Döngüler
+* Sözlükler (dictionary)
+* Kümeler (sets)
+* Demetler (tuples)
+
+### Fonksiyonlar
+
+* Fonksiyon tanımlama
+* Lambda fonksiyonu
+
+ ### Numpy
+ 
+ * Diziler
+ * Dizi İndeksleme
+ * Numpy Veri Tipleri
+ * Dizilerde Matematiksel İşlemler
+ * Broadcasting
+ 
+ ### Pandas 
+ 
+ * Veri çerçevesi kavramı (dataframe)
+ 
+ ### Matplotlib
+ 
+ * Fonksiyon çizdirme
+ * Alt çizimler (subplots)
