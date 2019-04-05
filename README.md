@@ -35,6 +35,11 @@ Genel amaçlı bir programlama dili olan **Python**, bilimsel hesaplamalar için
 * Fonksiyon tanımlama
 * Lambda fonksiyonu
 
+### Hata Yakalama
+
+* try, except, finally yöntemleri ile hata yakalama
+* Kendi yazdığınız fonksiyon için hata yakalama
+
  ### Numpy
  
  * Diziler
